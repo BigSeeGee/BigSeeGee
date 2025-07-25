@@ -5,7 +5,6 @@
 Cybersecurity graduate exploring wireless tech and embedded systems. Passionate about turning real-world vulnerabilities into secure solutions.
 
 ## Projects
-- Arduino Car Lock Advanced
 -  <a href="https://github.com/BigSeeGee/Arduino-Car-Lock-Advanced">Arduino Car Lock Advanced</a>
 -  <a href="https://github.com/BigSeeGee/Arduino-Car-Lock">Arduino Car Lock</a>
 
